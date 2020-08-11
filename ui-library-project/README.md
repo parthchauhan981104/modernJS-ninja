@@ -1,4 +1,4 @@
-<h1>UI Library project</h1>
+<h1>UI Library project</h1><br>
 Uses the webpack boilerplate, also uploaded in this repository. <br>
 Can add these components to any project.<br>
 Just copy the src/ninja-ui folder into your own source folder.<br>
