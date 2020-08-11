@@ -1,0 +1,12 @@
+/babel-webpack-demo/node_modules
+
+# Dependency directories
+webpack-bolierplate/node_modules/
+
+# Logs
+webpack-bolierplate/logs
+webpack-bolierplate/*.log
+webpack-bolierplate/npm-debug.log*
+
+# Optional npm cache directory
+webpack-bolierplate/.npm
